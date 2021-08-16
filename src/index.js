@@ -4,7 +4,4 @@ import ReactDOM from 'react-dom';
 
 const element = <h1>Hello World меня зовут: Денис Бугреев</h1>
 
-ReactDOM.render(
-	element,
-	document.getElementById('root')
-);
+ReactDOM.render(element, document.getElementById('root'));
